@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\abroadbent\source\repos\Craps Dont Pass\Craps Dont Pass\Source.cpp(147,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Craps Dont Pass.vcxproj -> C:\Users\abroadbent\source\repos\Craps Dont Pass\x64\Debug\Craps Dont Pass.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
